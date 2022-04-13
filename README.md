@@ -1,2 +1,2 @@
-# MeuPrimeiroReposit-rio
+# MeuPrimeiroRepositório
 Criando meu primeiro Diretório
